@@ -90,7 +90,7 @@ body {
 /* End Header */
 /* Start Hero Section */
 .hero {
-    background-image: url(./Images/background.png);
+    background-image: url(../Images/background.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
